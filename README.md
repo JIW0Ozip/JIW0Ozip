@@ -1,7 +1,7 @@
 ## Hi there 👋
 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?JIW0Ozip=JIW0Ozip)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JIW0Ozip&layout=compact)
 
 
 <!--
